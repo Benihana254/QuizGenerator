@@ -1,0 +1,310 @@
+Name: 
+
+ Email: 
+
+ Date: 
+
+                     Form28
+
+
+
+ 1 What is the capital of Colombia?
+A Bogotá
+B Manila
+C Copenhagen
+D Lima
+
+ 2 What is the capital of Italy?
+A Rome
+B Rabat
+C Manila
+D Accra
+
+ 3 What is the capital of South Africa?
+A Pretoria
+B Washington, D.C.
+C Berlin
+D New Delhi
+
+ 4 What is the capital of Portugal?
+A Kabul
+B Lisbon
+C Bangkok
+D Amsterdam
+
+ 5 What is the capital of Spain?
+A Madrid
+B Jerusalem
+C Bangkok
+D Paris
+
+ 6 What is the capital of Philippines?
+A New Delhi
+B Wellington
+C Manila
+D Riyadh
+
+ 7 What is the capital of United States?
+A Athens
+B Bangkok
+C New Delhi
+D Washington, D.C.
+
+ 8 What is the capital of Russia?
+A Kuala Lumpur
+B Paris
+C Moscow
+D Beijing
+
+ 9 What is the capital of Nigeria?
+A Abuja
+B Seoul
+C Helsinki
+D Baghdad
+
+ 10 What is the capital of Argentina?
+A Buenos Aires
+B Bogotá
+C Ottawa
+D Manila
+
+ 11 What is the capital of South Korea?
+A Budapest
+B Seoul
+C Mexico City
+D Rabat
+
+ 12 What is the capital of India?
+A Rome
+B New Delhi
+C Seoul
+D Tehran
+
+ 13 What is the capital of Netherlands?
+A Stockholm
+B Washington, D.C.
+C Canberra
+D Amsterdam
+
+ 14 What is the capital of Poland?
+A Bogotá
+B Lisbon
+C Kathmandu
+D Warsaw
+
+ 15 What is the capital of Malaysia?
+A Kuala Lumpur
+B Stockholm
+C Mexico City
+D Wellington
+
+ 16 What is the capital of Canada?
+A Ottawa
+B Canberra
+C Pretoria
+D Manila
+
+ 17 What is the capital of Thailand?
+A Kuala Lumpur
+B Bangkok
+C Brasília
+D Oslo
+
+ 18 What is the capital of Ireland?
+A Dublin
+B Bangkok
+C Kampala
+D Manila
+
+ 19 What is the capital of Nepal?
+A Dublin
+B Paris
+C Copenhagen
+D Kathmandu
+
+ 20 What is the capital of Vietnam?
+A Rabat
+B Hanoi
+C Mexico City
+D Berlin
+
+ 21 What is the capital of Morocco?
+A Rabat
+B Kathmandu
+C Dublin
+D Washington, D.C.
+
+ 22 What is the capital of Denmark?
+A Copenhagen
+B Riyadh
+C Wellington
+D Ankara
+
+ 23 What is the capital of Finland?
+A Helsinki
+B Pretoria
+C Kampala
+D Brasília
+
+ 24 What is the capital of Greece?
+A Brasília
+B Athens
+C Rome
+D Madrid
+
+ 25 What is the capital of Ghana?
+A Madrid
+B Warsaw
+C Accra
+D Helsinki
+
+ 26 What is the capital of Hungary?
+A Nairobi
+B Stockholm
+C Budapest
+D London
+
+ 27 What is the capital of France?
+A Beijing
+B Paris
+C Rabat
+D Budapest
+
+ 28 What is the capital of Uganda?
+A Kampala
+B Jerusalem
+C Rabat
+D Stockholm
+
+ 29 What is the capital of Switzerland?
+A Bern
+B Rabat
+C Cairo
+D Islamabad
+
+ 30 What is the capital of Mexico?
+A Mexico City
+B Stockholm
+C Moscow
+D Tehran
+
+ 31 What is the capital of Ukraine?
+A Jakarta
+B Kyiv
+C Pretoria
+D London
+
+ 32 What is the capital of Japan?
+A Tokyo
+B Paris
+C Beijing
+D Berlin
+
+ 33 What is the capital of Sweden?
+A Canberra
+B Lima
+C New Delhi
+D Stockholm
+
+ 34 What is the capital of Germany?
+A Hanoi
+B Pretoria
+C Berlin
+D Oslo
+
+ 35 What is the capital of Turkey?
+A Ankara
+B Stockholm
+C Ottawa
+D Tehran
+
+ 36 What is the capital of New Zealand?
+A Hanoi
+B Islamabad
+C Athens
+D Wellington
+
+ 37 What is the capital of Iraq?
+A Kabul
+B Rome
+C Bangkok
+D Baghdad
+
+ 38 What is the capital of Brazil?
+A Washington, D.C.
+B Wellington
+C Brasília
+D Oslo
+
+ 39 What is the capital of United Kingdom?
+A London
+B Cairo
+C Madrid
+D Washington, D.C.
+
+ 40 What is the capital of Australia?
+A Madrid
+B Canberra
+C Rabat
+D Lisbon
+
+ 41 What is the capital of Pakistan?
+A Islamabad
+B Bogotá
+C Baghdad
+D New Delhi
+
+ 42 What is the capital of Israel?
+A Wellington
+B Pretoria
+C Manila
+D Jerusalem
+
+ 43 What is the capital of China?
+A Canberra
+B Rome
+C Wellington
+D Beijing
+
+ 44 What is the capital of Norway?
+A Kabul
+B Oslo
+C Rome
+D Washington, D.C.
+
+ 45 What is the capital of Peru?
+A New Delhi
+B Mexico City
+C Lima
+D Ankara
+
+ 46 What is the capital of Egypt?
+A Cairo
+B New Delhi
+C Buenos Aires
+D Kabul
+
+ 47 What is the capital of Kenya?
+A New Delhi
+B Madrid
+C Nairobi
+D Addis Ababa
+
+ 48 What is the capital of Indonesia?
+A Jakarta
+B Budapest
+C Kampala
+D Stockholm
+
+ 49 What is the capital of Ethiopia?
+A Amsterdam
+B Seoul
+C Baghdad
+D Addis Ababa
+
+ 50 What is the capital of Afghanistan?
+A Kyiv
+B Mexico City
+C Bangkok
+D Kabul
+
